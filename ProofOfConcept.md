@@ -18,9 +18,6 @@ I. Contents
 6. Proof Of Concept
 >Item by item proof of concepts detailed in section 4
 
-7. Disclaimer
->Disclaimer pertaining to this project
-
 II. Report
 ========
 
@@ -37,14 +34,13 @@ Android application that tracks users' achievements and rewards them upon achiev
 ####4. Requirements Definition
 
 
-5. Concept
-========
-
-6. Proof Of Concept
-========
+####5. Concept
 
 
-7. Disclaimer
+####6. Proof Of Concept
+
+
+Disclaimer
 ========
 
 The information made available in this document and in all other documents in this document are intellectual property. Neither the transmission of this sample legal document nor the transmission of any information contained in this website is intended to create, and receipt hereof or thereof does not constitute formation of, a lawyer-client relationship.
