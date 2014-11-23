@@ -61,13 +61,13 @@ Atalanta is an Android application that allows users to enhance their fitness ex
 Users' devices
 - Allows users to interact with Atalanta services
 
-PayPal
+[PayPal]
 - Securely transfers users' funds
 
 Atalanta web server
 - Allows scheduling and implementation of services to be carried out securely
 
-Zinc API
+[Zinc API]
 - Purchases items automatically from Amazon
 
 **Setup**
@@ -171,3 +171,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+[Zinc API]:https://zinc.io/docs/#full-api
+[PayPal]:https://developer.paypal.com/docs/api/
