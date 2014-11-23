@@ -27,6 +27,15 @@ Android application that tracks users' achievements and rewards them upon achiev
 
 ####2. Context of Creation
 
+Created November 22-23 of 2014 for WildHacks 2014 at Northwestern University
+
+Contributors
+
+*Sam Cohen
+*Stan Huang
+*Sophia Lou
+*Edwin Wu
+*Wayne Xun
 
 ####3. Current Situation Assessment
 
@@ -43,6 +52,20 @@ Android application that tracks users' achievements and rewards them upon achiev
 Disclaimer
 ========
 
-The information made available in this document and in all other documents in this document are intellectual property. Neither the transmission of this sample legal document nor the transmission of any information contained in this website is intended to create, and receipt hereof or thereof does not constitute formation of, a lawyer-client relationship.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-The information contained in this website is provided only as general information and may or may not reflect the most current legal developments; accordingly, information on this website is not promised or guaranteed to be correct or complete. MaRS Discovery District expressly disclaims all liability in respect to actions taken or not taken based on any or all the contents of this website.
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
