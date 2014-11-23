@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Atalanis</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="runningTime">"Running Time: "</string>
+    <string name="milesRUn">Miles Run</string>
+    <string name="miles">3.0</string>
+    <string name="milesToGoal">Miles To Goal</string>
+    <string name="payment">Add Funds</string>
+    <string name="info">Update Information</string>
+    <string name="goals">Goals</string>
+    <string name="edit_message">Edit Message</string>
+
+</resources>
