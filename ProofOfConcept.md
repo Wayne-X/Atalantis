@@ -32,11 +32,11 @@ Users contribute funds for use by their account, for which they may define miles
 
 ####2. Context of Creation
 
-Created: November 22-23 of 2014
+*Created*: November 22-23 of 2014
 
-Original Purpose: WildHacks 2014 at Northwestern University
+*Original Purpose*: WildHacks 2014 at Northwestern University
 
-Contributors: Sam Cohen, Stan Huang, Sophia Lou, Edwin Wu, Wayne Xun
+*Contributors*: Sam Cohen, Stan Huang, Sophia Lou, Edwin Wu, Wayne Xun
 
 ####3. Current Situation Assessment
 
@@ -56,21 +56,68 @@ Atalanta is an Android application that allows users to enhance their fitness ex
 
 **Components**
 
-Users' devices: allows users to interact with Atalanta services
+Users' devices
+>Allows users to interact with Atalanta services
 
-PayPal: securely transfers users' funds
+PayPal
+>Securely transfers users' funds
 
-Atalanta web server: serves as an intermediate to allow scheduling and implementation of services to be carried out securely
+Atalanta web server
+>Allows scheduling and implementation of services to be carried out securely
 
-Zinc API: purchases items automatically from Amazon
+Zinc API
+>Purchases items automatically from Amazon
 
 **Setup**
 
-Upon first initialization of the Atalanta after installation, user will be prompted to enter their login information, including
+Upon first initialization of the Atalanta after installation, Atalanta prompts user to create an Atalanta account and provide necessary information. User will input: phone number, password, full name, shipping address, credit card information, and billing address (note 1).
+
+**Tracking Data*
+
+Atalanta tracks and progress data to users by tracking their location using Android's integrated tools which implement the device accelerometer, GPS, and WiFi connections. Items tracked include trip distance, current speed, and elapsed time. Items calculated and known include net distance, average trip distance, average trip speed, overall trip speed, net elapsed time, and average trip time.
+
+**Displaying Data**
+Tracked items and known items are available to the user in the information display screen. Here, users view both tracked and known items, but also listing of goals and distance until next goal.
+
+**Contributing Funds**
+Opening the menu allows users to contribute funds. User will select to contribute funds to own account, or to external account. If user contributes to an external account, he/she is prompted to enter the phone number of the associated account (note 2). The remainder of the process is identical for own or external account.
+
+Once own/external account is selected, user enters credit card information and contribution amount. This information is validated by PayPal, and if approved transfers funds to Atalanta's PayPal account (note 3). User has the option to allow Atalanta to "remember me" for future transactions (note 4).
+
+**Defining Milestones and Rewards**
+After user succesfully contributes funds, user inputs milestones. Milestones occur when a certain distance has been traversed. User then inputs either Amazon item ID or wish list ID to select item and item color/size/attributes.
+
+**Automatic Reward Purchasing**
+When user finishes a run, if net distance traversed meets or exceeds an unrewarded milestone, Atalanta automatically submits an order for the corresponding reward item from Amazon.
+
+Reward purchasing begins at the end of a run with user's device sending a packet to Atalanta web server. The web server carries out web service by ordering the appropriate award based on stored data for the user. Ordering is submitted through Zinc API. Zinc API accepts funds previously contributed by users to user's Atalanta account. Zinc API accesses these funds through Atalanta secure purchasing credit card.
+
+Atalanta will appropriately notify user of issue if an error occurs. Errors occur when reward item value exceeds that of applicable funds in user's account, there is a connectivity issue, Atalanta server fails to respond to user reward request, Zinc server fails to respond to Atalanta web server request, etc.
 
 ####6. Proof Of Concept
 
+**Setup**
+Concept
+
+**Tracking Data**
+
+**Displaying Data**
+
+**Contributing Funds**
+
+**Defining Milestones and Rewards**
+
+**Automatic Reward Purchasing**
+
+
 ####7. Notes
+
+(note 1)  | will implement Facebook account integration in the future
+(note 2)  | will implement Facebook friend search in the future
+(note 3)  | PayPal is chosen for this step for security purposes
+(note 4)  | "Remember me" is securely implemented by storing PayPal card ID, which can only be used to transfer funds to Atalanta PayPal account
+(note 5)  | 
+
 
 III. Disclaimer
 ========
