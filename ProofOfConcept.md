@@ -18,6 +18,9 @@ I. Contents
 6. Proof Of Concept
 >Item by item proof of concepts detailed in section 4
 
+7. Notes
+> Details on current implementation, additions for future implementation, etc
+
 II. Report
 ========
 
@@ -37,7 +40,9 @@ Contributors: Sam Cohen, Stan Huang, Sophia Lou, Edwin Wu, Wayne Xun
 
 ####3. Current Situation Assessment
 
-Fitness is a strong interest of many individuals with electronic devices. There are many applications that seek to heighten users' motivation and drive to complement their fitness experience with their electronic device. Most of these applications do so by providing information to allow users to plan and/or monitor their fitness activities and history. However, there is also a smaller group of applications that seek to intensifify users' motivation and drive to engage in fitness related activites. They achieve this by "gamifying" the experience, or enhancing the experience with an added virtual work and reward system, as well as socially sharing fitness activity amongst other techniques.
+Fitness is a strong interest of many individuals with electronic devices. There are many applications that seek to heighten users' motivation and drive to complement their fitness experience with their electronic device. Most of these applications do so by providing information to allow users to plan and/or monitor their fitness activities and history.
+
+There is also a smaller group of applications that seek to intensifify users' motivation and drive to engage in fitness related activites. They achieve this by "gamifying" the experience, or enhancing the experience with an added virtual work and reward system, as well as socially sharing fitness activity amongst other techniques.
 
 Online shopping is also a strong interest of many individuals with electronic devices. Applications that seek to make the online shopping experience easily accessible and the data easily dissectable are becoming more and more sophisticated and readily available.
 
@@ -47,10 +52,25 @@ Our team seeks to design a product that allows the user to implement their Andro
 
 ####5. Concept
 
+Atalanta is an Android application that allows users to enhance their fitness experience by supplementing their sometimes intangible history of exercise with physical rewards upon achieving certain milestones. Users contribute funds to their account via Paypal which will be used to fund rewards from Amazon. Upon contributing funds users may set their milestones upon which rewards will be granted, and select rewards from Amazon which they would like. Users may also contribute funds to friends accounts, and will then define milestones and rewards in the same fashion.
 
+**Components**
+
+Users' devices: allows users to interact with Atalanta services
+
+PayPal: securely transfers users' funds
+
+Atalanta web server: serves as an intermediate to allow scheduling and implementation of services to be carried out securely
+
+Zinc API: purchases items automatically from Amazon
+
+**Setup**
+
+Upon first initialization of the Atalanta after installation, user will be prompted to enter their login information, including
 
 ####6. Proof Of Concept
 
+####7. Notes
 
 III. Disclaimer
 ========
