@@ -6,10 +6,10 @@ Wildhacks 2014: android application rewards users for fitness
 Contributors
 ========
 
-Sam Cohen
-Stan Huang
-Sophia Lou
-Edwin Wu
+Sam Cohen, 
+Stan Huang, 
+Sophia Lou, 
+Edwin Wu, 
 Wayne Xun
 
 Summary
