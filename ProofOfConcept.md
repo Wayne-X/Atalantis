@@ -13,35 +13,29 @@ I. Contents
 >Requirements that our offering must fulfill
 
 5. Concept
-
-    In depth description of how the application operates
+>In depth description of how the application operates
 
 6. Proof Of Concept
-
-    Item by item proof of concepts detailed in section 4
+>Item by item proof of concepts detailed in section 4
 
 7. Disclaimer
+>Disclaimer pertaining to this project
 
-    Disclaimer pertaining to this project
-
-####II. Report
+II. Report
 ========
 
-1. Executive Summary
-========
+####1. Executive Summary
   
 Android application that tracks users' achievements and rewards them upon achieving certain milestones by automatically ordering physical products from Amazon. 
 
-2. Context of Creation
-========
+####2. Context of Creation
 
 
+####3. Current Situation Assessment
 
-3. Current Situation Assessment
-========
 
-4. Requirements Definition
-========
+####4. Requirements Definition
+
 
 5. Concept
 ========
