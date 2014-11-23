@@ -23,7 +23,9 @@ II. Report
 
 ####1. Executive Summary
   
-Android application that tracks users' achievements and rewards them upon achieving certain milestones by automatically ordering physical products from Amazon. 
+Inspired by the Greek God of running, Atalanta is an Android application that tracks users' achievements and rewards them upon achieving milestones by automatically ordering physical products from Amazon. The application is designed to be simple and intuitive.
+
+Users contribute funds for use by their account, for which they may define milestones upon which specified items from Amazon will be automatically ordered to be delivered to their doorstep. Users may also gift funds to other users, for which the gifter may specify the gift items and milestone upon which the gift will be achieved.
 
 ####2. Context of Creation
 
@@ -35,17 +37,22 @@ Contributors: Sam Cohen, Stan Huang, Sophia Lou, Edwin Wu, Wayne Xun
 
 ####3. Current Situation Assessment
 
+Fitness is a strong interest of many individuals with electronic devices. There are many applications that seek to heighten users' motivation and drive to complement their fitness experience with their electronic device. Most of these applications do so by providing information to allow users to plan and/or monitor their fitness activities and history. However, there is also a smaller group of applications that seek to intensifify users' motivation and drive to engage in fitness related activites. They achieve this by "gamifying" the experience, or enhancing the experience with an added virtual work and reward system, as well as socially sharing fitness activity amongst other techniques.
+
+Online shopping is also a strong interest of many individuals with electronic devices. Applications that seek to make the online shopping experience easily accessible and the data easily dissectable are becoming more and more sophisticated and readily available.
 
 ####4. Requirements Definition
 
+Our team seeks to design a product that allows the user to implement their Android device to enhance their sometimes abstract fitness experience with the gratification of gaining physical rewards in a social application that is easy to use.
 
 ####5. Concept
+
 
 
 ####6. Proof Of Concept
 
 
-Disclaimer
+III. Disclaimer
 ========
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
