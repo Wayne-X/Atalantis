@@ -1,4 +1,7 @@
-Give the gift of motivation with Atalantis. Give Amazon items to family, friends, and yourself that are shipped only when they achieve fitness milestones in Atalantis that YOU choose. Use Atalantis to get friends away from the TV, or self enforce some good ol' delayed gratification. Use Atalantis, and change your lifestyle AND your body!
+Atalantis
+========
+
+Give the gift of motivation with Atalantis! Give Amazon items to family, friends, and yourself that are shipped only when they achieve fitness milestones in Atalantis that YOU choose. Use Atalantis to get friends away from the TV, or self enforce some good ol' delayed gratification. Use Atalantis, and change your lifestyle AND your body!
 
 I. Contents
 ========
