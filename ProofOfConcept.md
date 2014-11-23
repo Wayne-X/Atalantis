@@ -1,8 +1,7 @@
 I. Contents
 ========
 1. Executive Summary
-
-Overall summary of what the application is and does
+    Overall summary of what the application is and does
 
 2. Context of Creation
 
