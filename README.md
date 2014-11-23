@@ -15,4 +15,4 @@ Wayne Xun
 Summary
 ========
 
-This is a proof of concept of an Android application that tracks users' achievements and rewards them upon achieving certain milestones by automatically ordering physical products from Amazon. For detailed write up see "ProofOfConcept.txt".
+This is a proof of concept of an Android application that tracks users' achievements and rewards them upon achieving certain milestones by automatically ordering physical products from Amazon. For detailed write up see "ProofOfConcept.md".
