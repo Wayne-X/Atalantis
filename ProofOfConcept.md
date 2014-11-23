@@ -1,19 +1,16 @@
 I. Contents
 ========
 1. Executive Summary
-    Overall summary of what the application is and does
+>Overall summary of what the application is and does
 
 2. Context of Creation
-
-    Contributors and purpose
+>Contributors and purpose
 
 3. Current Situation Assessment
-
-    Applications similar to ours that are currently available
+>Applications similar to ours that are currently available
 
 4. Requirements Definition
-
-    Requirements that our offering must fulfill
+>Requirements that our offering must fulfill
 
 5. Concept
 
