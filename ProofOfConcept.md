@@ -1,29 +1,28 @@
 I. Contents
 ========
-1. Executive Summary
->Overall summary of what the application is and does
+**1. Executive Summary**
+- Overall summary of what the application is and does
 
-2. Context of Creation
->Contributors and purpose
+**2. Context of Creation**
+- Contributors and purpose
 
-3. Current Situation Assessment
->Applications similar to ours that are currently available
+**3. Current Situation Assessment**
+- Applications similar to ours that are currently available
 
-4. Requirements Definition
->Requirements that our offering must fulfill
+**4. Requirements Definition**
+- Requirements that our product must fulfill
 
-5. Concept
->In depth description of how the application operates
+**5. Concept**
+- In depth description of how the application operates
 
-6. Proof Of Concept
->Item by item proof of concepts detailed in section 4
+**6. Proof Of Concept**
+- Item by item proof of concepts detailed in section 4
 
-7. Notes
-> Details on current implementation, additions for future implementation, etc
+**7. Notes**
+- Details on current implementation, additions for future implementation, etc
 
 II. Report
 ========
-
 ####1. Executive Summary
   
 Inspired by the Greek God of running, Atalanta is an Android application that tracks users' achievements and rewards them upon achieving milestones by automatically ordering physical products from Amazon. The application is designed to be simple and intuitive.
@@ -32,11 +31,14 @@ Users contribute funds for use by their account, for which they may define miles
 
 ####2. Context of Creation
 
-*Created*: November 22-23 of 2014
+**Created**
+- November 22-23 of 2014
 
-*Original Purpose*: WildHacks 2014 at Northwestern University
+**Original Purpose**
+- WildHacks 2014 at Northwestern University
 
-*Contributors*: Sam Cohen, Stan Huang, Sophia Lou, Edwin Wu, Wayne Xun
+**Contributors**
+- Sam Cohen, Stan Huang, Sophia Lou, Edwin Wu, Wayne Xun
 
 ####3. Current Situation Assessment
 
@@ -57,16 +59,16 @@ Atalanta is an Android application that allows users to enhance their fitness ex
 **Components**
 
 Users' devices
->Allows users to interact with Atalanta services
+- Allows users to interact with Atalanta services
 
 PayPal
->Securely transfers users' funds
+- Securely transfers users' funds
 
 Atalanta web server
->Allows scheduling and implementation of services to be carried out securely
+- Allows scheduling and implementation of services to be carried out securely
 
 Zinc API
->Purchases items automatically from Amazon
+- Purchases items automatically from Amazon
 
 **Setup**
 
@@ -100,56 +102,52 @@ Atalanta will appropriately notify user of issue if an error occurs. Errors occu
 
 ####6. Proof Of Concept
 
-[6. Proof of Concept] lists capabilites specified by [5. Concept] and illustrates an action that the POC performs which illustrates the listed capability.
+*6. Proof of Concept* lists capabilites specified by *5. Concept* and illustrates an action that the POC performs which illustrates the listed capability.
 
 Largest burden of POC rests on capability to send and receive payments, and utilize PayPal and Zinc APIs to automate reward item ordering.
 
 **Setup**
-
->Concept receives and stores user information
+- Concept receives and stores user information
 POC receives user data and visibily stores them locally and on Atalanta server.
 
 **Tracking Data**
-
->Concept obtains and analyzes data
+- Concept obtains and analyzes data
 Existing available applications perform such instances of basic functionality.
 
 **Displaying Data**
-
->Concept displays saved data
+- Concept displays saved data
 Existing available applications perform such instances of basic functionality.
 
 **Contributing Funds**
-
->Concept uses PayPal transaction services
+- Concept uses PayPal transaction services
 POC sends PayPal funds to own account
 
->Concept stores and uses PayPal card ID
+- Concept stores and uses PayPal card ID
 POC uses PayPal API to obtain and visibly store PayPal card ID on Atalanta server
 
 **Defining Milestones and Rewards**
 
->Concept compares stored data
+- Concept compares stored data
 Existing available applications perform such instances of basic functionality.
 
 **Automatic Reward Purchasing**
 
->Concept, when triggered, executes functions
+- Concept, when triggered, executes functions
 POC executes corresponding functions when triggered
 
->Concept uses Zinc API to order Amazon items
+- Concept uses Zinc API to order Amazon items
 POC sends request to Zinc API using test userid "public" to illustrate Zinc API functionality
 
 
 ####7. Notes
 
-(note 1)  | will implement Facebook account integration in the future
+**(note 1)**  | will implement Facebook account integration in the future
 
-(note 2)  | will implement Facebook friend search in the future
+**(note 2)**  | will implement Facebook friend search in the future
 
-(note 3)  | PayPal is chosen for this step for security purposes
+**(note 3)**  | PayPal is chosen for this step for security purposes
 
-(note 4)  | "Remember me" is securely implemented by storing PayPal card ID, which can only be used to transfer funds to Atalanta PayPal account
+**(note 4)**  | "Remember me" is securely implemented by storing PayPal card ID, which can only be used to transfer funds to Atalanta PayPal account
 
 III. Disclaimer
 ========
