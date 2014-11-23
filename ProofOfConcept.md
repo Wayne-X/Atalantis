@@ -1,8 +1,7 @@
 I. Contents
 ========
 1. Executive Summary
-
-    Overall summary of what the application is and does
+Overall summary of what the application is and does
 
 2. Context of Creation
 
@@ -28,7 +27,7 @@ I. Contents
 
     Disclaimer pertaining to this project
 
-II. Report
+####II. Report
 ========
 
 1. Executive Summary
