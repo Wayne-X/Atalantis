@@ -1,24 +1,31 @@
 I. Contents
 ========
 1. Executive Summary
+
     Overall summary of what the application is and does
 
 2. Context of Creation
+
     Contributors and purpose
 
 3. Current Situation Assessment
+
     Applications similar to ours that are currently available
 
 4. Requirements Definition
+
     Requirements that our offering must fulfill
 
 5. Concept
+
     In depth description of how the application operates
 
 6. Proof Of Concept
+
     Item by item proof of concepts detailed in section 4
 
 7. Disclaimer
+
     Disclaimer pertaining to this project
 
 II. Report
