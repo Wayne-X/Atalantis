@@ -1,3 +1,5 @@
+Give the gift of motivation with Atalantis. Give Amazon items to family, friends, and yourself that are shipped only when they achieve fitness milestones in Atalantis that YOU choose. Use Atalantis to get friends away from the TV, or self enforce some good ol' delayed gratification. Use Atalantis, and change your lifestyle AND your body!
+
 I. Contents
 ========
 **1. Executive Summary**
@@ -78,7 +80,7 @@ Upon first initialization of the Atalantis after installation, Atalantis prompts
 
 **Tracking Data**
 
-Atalantis tracks and progress data to users by tracking their location using Android's integrated tools which implement the device accelerometer, GPS, and WiFi connections. Items tracked include trip distance, current speed, and elapsed time. Items calculated and known include net distance, average trip distance, average trip speed, overall trip speed, net elapsed time, and average trip time.
+Atalantis tracks and processes user's running workout data (note 2) by tracking their location using Android's integrated tools which implement the device accelerometer, GPS, and WiFi connections. Items tracked include trip distance, current speed, and elapsed time. Items calculated and known include net distance, average trip distance, average trip speed, overall trip speed, net elapsed time, and average trip time.
 
 **Displaying Data**
 
@@ -86,9 +88,9 @@ Tracked items and known items are available to the user in the information displ
 
 **Contributing Funds**
 
-Opening the menu allows users to contribute funds. User will select to contribute funds to own account, or to external account. If user contributes to an external account, he/she is prompted to enter the phone number of the associated account (note 2). The remainder of the process is identical for own or external account.
+Opening the menu allows users to contribute funds. User will select to contribute funds to own account, or to external account. If user contributes to an external account, he/she is prompted to enter the phone number of the associated account (note 3). The remainder of the process is identical for own or external account.
 
-Once own/external account is selected, user enters credit card information and contribution amount. This information is validated by PayPal, and if approved transfers funds to Atalantis's PayPal account (note 3). User has the option to allow Atalantis to "remember me" for future transactions (note 4). User fund amount and earmark are stored on Atalantis web server (note 5).
+Once own/external account is selected, user enters credit card information and contribution amount. This information is validated by PayPal, and if approved transfers funds to Atalantis's PayPal account (note 4). User has the option to allow Atalantis to "remember me" for future transactions (note 5). User fund amount and earmark are stored on Atalantis web server (note 6).
 
 **Defining Milestones and Rewards**
 
@@ -145,13 +147,15 @@ POC sends request to Zinc API using test userid "public" to illustrate Zinc API 
 
 **(note 1)**  | Will implement Facebook account integration in the future
 
-**(note 2)**  | Will implement Facebook friend search in the future
+**(note 2)**  | Will implement more workout types in the future
 
-**(note 3)**  | PayPal is chosen for this step for security purposes
+**(note 3)**  | Will implement Facebook friend search in the future
 
-**(note 4)**  | "Remember me" is securely implemented by storing PayPal card ID, which can only be used to transfer funds to Atalantis PayPal account
+**(note 4)**  | PayPal is chosen for this step for security purposes
 
-**(note 5)**  | Fund information storage security will be implemented in the future by guarding against top threats as listed by OWASP.ORG
+**(note 5)**  | "Remember me" is securely implemented by storing PayPal card ID, which can only be used to transfer funds to Atalantis PayPal account
+
+**(note 6)**  | Fund information storage security will be implemented in the future by guarding against top threats as listed by OWASP.ORG
 
 III. Disclaimer
 ========
