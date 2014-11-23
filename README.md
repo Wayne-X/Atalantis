@@ -1,7 +1,7 @@
 Atalantis
 ========
 
-Proof of concept of Android application that rewards users for fitness, designed for WildHacks 2014 at Northwestern University
+INCOMPLETE Proof of concept of Android application that rewards users for fitness, designed for WildHacks 2014 at Northwestern University
 
 Contributors
 ========
