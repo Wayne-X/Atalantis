@@ -1,7 +1,7 @@
 Atalanta
 ========
 
-Wildhacks 2014: android application rewards users for fitness
+Proof of concept of Android application that rewards users for fitness, designed for WildHacks 2014 at Northwestern University
 
 Contributors
 ========
@@ -15,4 +15,4 @@ Wayne Xun
 Summary
 ========
 
-This is a proof of concept of an Android application that tracks users' achievements and rewards them upon achieving certain milestones by automatically ordering physical products from Amazon. For detailed write up see "ProofOfConcept.md".
+Inspired by the Greek God of running, Atalanta is an Android application that tracks users' achievements and rewards them upon achieving milestones by automatically ordering physical products from Amazon.
