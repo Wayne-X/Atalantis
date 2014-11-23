@@ -1,4 +1,4 @@
-Atalanta
+Atalantis
 ========
 
 Proof of concept of Android application that rewards users for fitness, designed for WildHacks 2014 at Northwestern University
@@ -15,4 +15,4 @@ Wayne Xun
 Summary
 ========
 
-Inspired by the Greek God of running, Atalanta is an Android application that tracks users' achievements and rewards them upon achieving milestones by automatically ordering physical products from Amazon.
+Atalantis is an Android application that tracks users' achievements and rewards them upon achieving milestones by automatically ordering physical products from Amazon.
