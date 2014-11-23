@@ -25,6 +25,8 @@ II. Report
 ========
 ####1. Executive Summary
   
+THIS IS AN INCOMPLETE PROOF OF CONCEPT.
+
 Atalantis is an Android application that tracks users' achievements and rewards them upon achieving milestones by automatically ordering physical products from Amazon. The application is designed to be simple and intuitive.
 
 Users contribute funds for use by their account, for which they may define milestones upon which specified items from Amazon will be automatically ordered to be delivered to their doorstep. Users may also gift funds to other users, for which the gifter may specify the gift items and milestone upon which the gift will be achieved.
