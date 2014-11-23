@@ -86,7 +86,7 @@ Tracked items and known items are available to the user in the information displ
 
 Opening the menu allows users to contribute funds. User will select to contribute funds to own account, or to external account. If user contributes to an external account, he/she is prompted to enter the phone number of the associated account (note 2). The remainder of the process is identical for own or external account.
 
-Once own/external account is selected, user enters credit card information and contribution amount. This information is validated by PayPal, and if approved transfers funds to Atalanta's PayPal account (note 3). User has the option to allow Atalanta to "remember me" for future transactions (note 4).
+Once own/external account is selected, user enters credit card information and contribution amount. This information is validated by PayPal, and if approved transfers funds to Atalanta's PayPal account (note 3). User has the option to allow Atalanta to "remember me" for future transactions (note 4). User fund amount and earmark are stored on Atalanta web server (note 5).
 
 **Defining Milestones and Rewards**
 
@@ -141,13 +141,15 @@ POC sends request to Zinc API using test userid "public" to illustrate Zinc API 
 
 ####7. Notes
 
-**(note 1)**  | will implement Facebook account integration in the future
+**(note 1)**  | Will implement Facebook account integration in the future
 
-**(note 2)**  | will implement Facebook friend search in the future
+**(note 2)**  | Will implement Facebook friend search in the future
 
 **(note 3)**  | PayPal is chosen for this step for security purposes
 
 **(note 4)**  | "Remember me" is securely implemented by storing PayPal card ID, which can only be used to transfer funds to Atalanta PayPal account
+
+**(note 5)**  | Fund information storage security will be implemented in the future by guarding against top threats as listed by OWASP.ORG
 
 III. Disclaimer
 ========
