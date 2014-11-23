@@ -38,7 +38,7 @@ Users contribute funds for use by their account, for which they may define miles
 - WildHacks 2014 at Northwestern University
 
 **Contributors**
-- Sam Cohen, Stan Huang, Sophia Lou, Edwin Wu, Wayne Xun
+- [Sam Cohen], [Stan Huang], [Sophia Lou], [Edwin Wu], [Wayne Xun]
 
 ####3. Current Situation Assessment
 
@@ -174,3 +174,8 @@ THE SOFTWARE.
 
 [Zinc API]:https://zinc.io/docs/#full-api
 [PayPal]:https://developer.paypal.com/docs/api/
+[Wayne Xun]:https://github.com/Wayne-X
+[Edwin Wu]:https://github.com/edwinwu16
+[Sophia Lou]:https://github.com/slou13
+[Sam Cohen]:https://github.com/samc1213
+[Stan Huang]:https://github.com/shuang2831
