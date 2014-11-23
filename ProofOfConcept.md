@@ -27,15 +27,11 @@ Android application that tracks users' achievements and rewards them upon achiev
 
 ####2. Context of Creation
 
-Created November 22-23 of 2014 for WildHacks 2014 at Northwestern University
+Created: November 22-23 of 2014
 
-Contributors
+Original Purpose: WildHacks 2014 at Northwestern University
 
-*Sam Cohen
-*Stan Huang
-*Sophia Lou
-*Edwin Wu
-*Wayne Xun
+Contributors: Sam Cohen, Stan Huang, Sophia Lou, Edwin Wu, Wayne Xun
 
 ####3. Current Situation Assessment
 
